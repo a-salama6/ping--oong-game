@@ -1,1 +1,2 @@
-# ping--oong-game
+# ping--pong-game
+a simple pong game using C# programming language. We will be building this project using Windows Forms Application in Visual Studio. This game is very simple you, we are using 3 picture boxes in the project, 1 for the player, 1 for the computer and 1 for the ball. You can download the images used in this tutorial below the video tutorial section. The source code section will provide you will the full source code used in this project. We recommend you try and recreate the project yourself and if you are having issues you can double check with the source code.
