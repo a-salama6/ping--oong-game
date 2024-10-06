@@ -1,0 +1,17 @@
+D:\work\work_on_c#\Pong Game\Pong Game\bin\Debug\net8.0-windows\Pong Game.exe
+D:\work\work_on_c#\Pong Game\Pong Game\bin\Debug\net8.0-windows\Pong Game.deps.json
+D:\work\work_on_c#\Pong Game\Pong Game\bin\Debug\net8.0-windows\Pong Game.runtimeconfig.json
+D:\work\work_on_c#\Pong Game\Pong Game\bin\Debug\net8.0-windows\Pong Game.dll
+D:\work\work_on_c#\Pong Game\Pong Game\bin\Debug\net8.0-windows\Pong Game.pdb
+D:\work\work_on_c#\Pong Game\Pong Game\obj\Debug\net8.0-windows\Pong_Game.Form1.resources
+D:\work\work_on_c#\Pong Game\Pong Game\obj\Debug\net8.0-windows\Pong_Game.Properties.Resources.resources
+D:\work\work_on_c#\Pong Game\Pong Game\obj\Debug\net8.0-windows\Pong Game.csproj.GenerateResource.cache
+D:\work\work_on_c#\Pong Game\Pong Game\obj\Debug\net8.0-windows\Pong Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\work_on_c#\Pong Game\Pong Game\obj\Debug\net8.0-windows\Pong Game.AssemblyInfoInputs.cache
+D:\work\work_on_c#\Pong Game\Pong Game\obj\Debug\net8.0-windows\Pong Game.AssemblyInfo.cs
+D:\work\work_on_c#\Pong Game\Pong Game\obj\Debug\net8.0-windows\Pong Game.csproj.CoreCompileInputs.cache
+D:\work\work_on_c#\Pong Game\Pong Game\obj\Debug\net8.0-windows\Pong Game.dll
+D:\work\work_on_c#\Pong Game\Pong Game\obj\Debug\net8.0-windows\refint\Pong Game.dll
+D:\work\work_on_c#\Pong Game\Pong Game\obj\Debug\net8.0-windows\Pong Game.pdb
+D:\work\work_on_c#\Pong Game\Pong Game\obj\Debug\net8.0-windows\Pong Game.genruntimeconfig.cache
+D:\work\work_on_c#\Pong Game\Pong Game\obj\Debug\net8.0-windows\ref\Pong Game.dll
